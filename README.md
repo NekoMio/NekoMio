@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am NekoMio
+> A student from Beijing University of Posts and Telecommunications
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NekoMio&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="NekoMio's github stats"/>
+
+Repos:  
+- [Puki - BUPT Lantu Developer Platform](https://github.com/lantu-dev/puki)  
+- [My Blog](https://github.com/NekoMio/Blog)
+
+Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/NekoMio)
 
 <!--
 **NekoMio/NekoMio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
