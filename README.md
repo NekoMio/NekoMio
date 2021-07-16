@@ -3,12 +3,12 @@
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NekoMio&show_icons=true&include_all_commits=true&theme=material-palenight" alt="NekoMio's github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMio&layout=compact&theme=material-palenight" alt="NekoMio's most used languages">
 
 Repos:  
 - [Puki - BUPT Lantu Developer Platform](https://github.com/lantu-dev/puki)  
 - [My Blog](https://github.com/NekoMio/Blog)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMio&layout=compact&theme=material-palenight" alt="NekoMio's most used languages">
 Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/NekoMio)
 
 <!--
