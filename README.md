@@ -7,9 +7,10 @@
 Repos:  
 - [Puki - BUPT Lantu Developer Platform](https://github.com/lantu-dev/puki)  
 - [My Blog](https://github.com/NekoMio/Blog)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMio&layout=compact&theme=material-palenight" alt="NekoMio's most used languages">
 Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/NekoMio)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMio&layout=compact&theme=material-palenight" alt="NekoMio's most used languages" />
+
 
 <!--
 **NekoMio/NekoMio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
