@@ -7,6 +7,7 @@
 Repos:  
 - [Puki - BUPT Lantu Developer Platform](https://github.com/lantu-dev/puki)  
 - [My Blog](https://github.com/NekoMio/Blog)
+- [RISC-V CPU](https://github.com/NekoMio/buptriscv)
 
 
 Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/NekoMio)
