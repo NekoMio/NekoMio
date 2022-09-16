@@ -10,7 +10,7 @@ Repos:
 - [RISC-V CPU](https://github.com/NekoMio/buptriscv)
 
 
-Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/NekoMio)
+Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/Nekohui)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMio&layout=compact&theme=material-palenight" alt="NekoMio's most used languages" />
 
