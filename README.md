@@ -3,11 +3,6 @@
 
 [![](https://img.shields.io/static/v1?label=PGP&message=E7B641AA97F5CA31&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=hui@nekomio.com)
 
-Repos:  
-- [Puki - BUPT Lantu Developer Platform](https://github.com/lantu-dev/puki)  
-- [My Blog](https://github.com/NekoMio/Blog)
-- [RISC-V CPU](https://github.com/NekoMio/buptriscv)
-
 
 Talk with me by [Email](mailto:hui@nekomio.com) or [Telegram](https://t.me/Nekohui)
 
